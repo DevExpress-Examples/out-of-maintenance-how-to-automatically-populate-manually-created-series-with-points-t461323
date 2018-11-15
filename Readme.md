@@ -1,3 +1,10 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [Point.cs](./CS/Bar3DChart/Model/Point.cs) (VB: [Point.vb](./VB/Bar3DChart/Model/Point.vb))
+* **[MainWindow.xaml](./CS/Bar3DChart/View/MainWindow.xaml) (VB: [MainWindow.xaml](./VB/Bar3DChart/View/MainWindow.xaml))**
+* [RandomDataViewModel.cs](./CS/Bar3DChart/ViewModel/RandomDataViewModel.cs) (VB: [RandomDataViewModel.vb](./VB/Bar3DChart/ViewModel/RandomDataViewModel.vb))
+<!-- default file list end -->
 # How to automatically populate manually created series with points
 
 
